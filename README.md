@@ -1,2 +1,3 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoltus)](https://github.com/anuraghazra/github-readme-stats)
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Zoltus?style=social?style=plastic&logo=github">
