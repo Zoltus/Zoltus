@@ -1,11 +1,12 @@
 
-<p align="center">
+<div align="center">
 <img src="https://raw.githubusercontent.com/Zoltus/Zoltus/main/banner.png" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoltus&show_icons=true&theme=prussian)
 
-</p>
+</div>
+
   
 <!---
 
