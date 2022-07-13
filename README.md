@@ -1,2 +1,7 @@
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=NATroutter&show_icons=true&theme=dracula)  
 
-![](https://hit.yhype.me/github/profile?user_id=23402980)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NATroutter&layout=compact&theme=dracula)  
+  
+</div>
