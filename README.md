@@ -1,11 +1,14 @@
-</p align="center">
-<img src="https://raw.githubusercontent.com/Zoltus/Zoltus/main/banner.png" />
-<div align="center">
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoltus&show_icons=true&theme=prussian)
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Zoltus/Zoltus/main/banner.png" />
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoltus&show_icons=true&theme=prussian)
+
+</p>
   
 <!---
-</div>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
