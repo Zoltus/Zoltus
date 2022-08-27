@@ -1,7 +1,7 @@
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Zoltus/Zoltus/main/banner.png" />
-
+<img src="https://github.com/Zoltus/Zoltus/blob/main/2y1r289m8ev71.gif?raw=true" />
+![](https://github.com/Zoltus/Zoltus/blob/main/2y1r289m8ev71.gif)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoltus&show_icons=true&theme=prussian)
 
